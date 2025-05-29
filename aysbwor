@@ -82,3 +82,29 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2660bJcp/ekushtv-entertainment.png" group-title="entertainment", Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="somoy-tv" tvg-language="" tvg-logo="" group-title="",Somoy Tv
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="cartoon-network" tvg-language="" tvg-logo="" group-title="",Cartoon Network Hindi
+https://aynapubluc.vercel.app/api/stream/e73ffada-f80a-4c23-9bd8-76142e41c389.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="disney-sd" tvg-language="" tvg-logo="" group-title="",Disney SD
+https://newbdix-xfireflix.vercel.app/api/167551.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="nickelodeon" tvg-language="" tvg-logo="" group-title="",Nickelodeon
+http://178.128.214.60:1234/stream/astro/nickelodeon/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="", Channel 24
+https://aynapubluc.vercel.app/api/stream/89247cb9-3c3e-465c-bbc7-d444b0d65424.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Jamuna Tv
+https://aynapubluc.vercel.app/api/stream/8a1ff003-7cd5-4d75-8245-fa8aa3cdc6aa.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Ekattor Tv
+https://aynapubluc.vercel.app/api/stream/1a7a1365-ae2c-470f-9fb2-25c6e83bb108.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Ekhon Tv
+https://aynapubluc.vercel.app/api/stream/0579659b-2854-40d1-ad6a-69b70641ad17.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Maasranga Tv
+https://aynapubluc.vercel.app/api/stream/9a94b22f-c4a4-4150-8eb9-129d0ddeb934.m3u8
