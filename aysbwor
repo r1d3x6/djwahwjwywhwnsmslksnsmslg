@@ -3,6 +3,33 @@
 
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz" 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/btv_world.png" group-title="",BTV 
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://appv10static.jaagobd.com/media/channel_logos/songsodtv.jpg" group-title="",Songsad TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/songsodtv-world.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/somoy_news.png" group-title="",Somoy Tv
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/channel_24.png" group-title="", Channel 24
+https://aynapubluc.vercel.app/api/stream/89247cb9-3c3e-465c-bbc7-d444b0d65424.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/jamuna_tv.png" group-title="",Jamuna Tv
+https://aynapubluc.vercel.app/api/stream/8a1ff003-7cd5-4d75-8245-fa8aa3cdc6aa.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/ekattor_tv.png" group-title="",Ekattor Tv
+https://aynapubluc.vercel.app/api/stream/1a7a1365-ae2c-470f-9fb2-25c6e83bb108.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Ekhon Tv
+https://aynapubluc.vercel.app/api/stream/0579659b-2854-40d1-ad6a-69b70641ad17.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/maasranga.png" group-title="",Maasranga Tv
+https://aynapubluc.vercel.app/api/stream/9a94b22f-c4a4-4150-8eb9-129d0ddeb934.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/ekushey_tv.png" group-title="entertainment", Ekushey TV
+https://ekusheyserver.com/etvlivesn.m3u8
+
 #EXTINF:-1 tvg-ID="" tvg-name="HINDI &#9614;DISNEY SD" tvg-logo="https://img.logo-cdn.cc/disneychannel.png" group-title="",HINDI &#9614;DISNEY SD
 http://line.ultrab.xyz:80/ZeeALI1/465841/112872
 
@@ -52,17 +79,11 @@ https://otttv.co.in/d2h/livestream/discovery-channel/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/discovery-kids/drmLicense
 https://otttv.co.in/d2h/livestream/discovery-kids/manifest.mpd
 
-#EXTINF:-1 tvg-id="btv-chattogram" tvg-name="Btv Chattogram" tvg-language="Bangla" tvg-logo="" group-title="MIXED",Btv Chattogram 
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/master.m3u8
-
 #EXTINF:-1 tvg-id="cricket-gold" tvg-name="Cricket Gold" tvg-language="" tvg-logo="" group-title="Sports",Cricket Gold
 https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bpss9asqfihqh/scheduler/scheduleMaster/453.m3u8
 
 #EXTINF:-1 tvg-id="tsports" tvg-name="Tsports" tvg-language="" tvg-logo="" group-title="Sports",Tsports
 https://dj-jadutv-by-xfireflix.netlify.app/.netlify/functions/magicxtvbd/t_sports.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="somoy-tv" tvg-language="" tvg-logo="" group-title="news",Somoy Tv
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="cartoon-network" tvg-language="" tvg-logo="" group-title="Kids",Cartoon Network Hindi
 https://newbdix-xfireflix.vercel.app/api/150478.m3u8
@@ -76,38 +97,8 @@ http://178.128.214.60:1234/stream/astro/nickelodeon/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/north-korea/flag-square-500.png" group-title="temporary channels", DPRK Central TV
 https://tv.nknews.org/tvdash/stream.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fNnpCqX/masranga-entertainment.png" group-title="entertainment", Maasranga TV
-https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2660bJcp/ekushtv-entertainment.png" group-title="entertainment", Ekushey TV
-https://ekusheyserver.com/etvlivesn.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="somoy-tv" tvg-language="" tvg-logo="" group-title="",Somoy Tv
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="cartoon-network" tvg-language="" tvg-logo="" group-title="",Cartoon Network Hindi
 https://aynapubluc.vercel.app/api/stream/e73ffada-f80a-4c23-9bd8-76142e41c389.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="disney-sd" tvg-language="" tvg-logo="" group-title="",Disney SD
-https://newbdix-xfireflix.vercel.app/api/167551.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="nickelodeon" tvg-language="" tvg-logo="" group-title="",Nickelodeon
-http://178.128.214.60:1234/stream/astro/nickelodeon/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="", Channel 24
-https://aynapubluc.vercel.app/api/stream/89247cb9-3c3e-465c-bbc7-d444b0d65424.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Jamuna Tv
-https://aynapubluc.vercel.app/api/stream/8a1ff003-7cd5-4d75-8245-fa8aa3cdc6aa.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Ekattor Tv
-https://aynapubluc.vercel.app/api/stream/1a7a1365-ae2c-470f-9fb2-25c6e83bb108.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Ekhon Tv
-https://aynapubluc.vercel.app/api/stream/0579659b-2854-40d1-ad6a-69b70641ad17.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Maasranga Tv
-https://aynapubluc.vercel.app/api/stream/9a94b22f-c4a4-4150-8eb9-129d0ddeb934.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="",CN-PAK
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
@@ -126,12 +117,8 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3.aynaott.com/storage/c13a34a82616b5b23008e70913608b76" group-title="",Mr Bean
 https://fifabangladesh.site/69/TATACC/play.php?id=16939
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="" tvg-logo="https://static.epg.best/in/StarMoviesSelect.in.png", Star Movies Select HD
 http://xtvplayer.top/live/3525532727/9752528282/66315.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://appv10static.jaagobd.com/media/channel_logos/songsodtv.jpg" group-title="",Songsad TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/songsodtv-world.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png" group-title="",Sony Yay Bangla
 https://newsprotalhub.xyz/tipyop/live.m3u8?id=57bd9c2493c1&e=.m3u8
@@ -141,3 +128,36 @@ http://tv.bdiptv.store:80/live/restream/restreamzz/96.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://otapp.store/uploads/tv_image/sm/disney-hindi.png" group-title="",Disney Hindi-2
 http://xtvplayer.top/live/3525532727/9752528282/167551.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/20250530_172252.png" group-title="",TNT Sports 1 - AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://a129aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/20250530_172252.png" group-title="",TNT Sports 2 - AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+https://a129aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/20250530_172252.png" group-title="",TNT Sports 3 - AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+https://a129aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/20250530_172252.png" group-title="",TNT Sports 4 - AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
+https://a129aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/20250530_172252.png" group-title="",TNT Sports 5 - AQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
+https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/20250530_175852.png",Willow - FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/20250530_180603.png",Ten Cricket 
+https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd?%7CdrmScheme=clearkey&drmLicense=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
