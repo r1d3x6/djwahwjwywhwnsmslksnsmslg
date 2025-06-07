@@ -30,7 +30,7 @@ https://aynapubluc.vercel.app/api/stream/9a94b22f-c4a4-4150-8eb9-129d0ddeb934.m3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/ekushey_tv.png" group-title="entertainment", Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/disnep.png" group-title="",Disnep
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/disnep.png" group-title="",Disnep Channel
 http://line.ultrab.xyz:80/ZeeALI1/465841/112872
 
 #EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="Entertainment",Sony Aath
