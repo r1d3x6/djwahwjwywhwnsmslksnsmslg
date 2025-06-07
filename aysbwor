@@ -199,22 +199,22 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="",Deepto TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/deepto-tv.png",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="",Dw News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/dw.png",Dw News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="",AL Jazeera
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/aljazeera.png",AL Jazeera
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
 #EXTINF:-1 tvg-id="france-24" tvg-name="France 24" tvg-language="English" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/vrandh.png" tvg-chno="france-24" group-title="News",France 24
 https://otttv.co.in/d2h/livestream/france-24/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="",Wion
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/wion.png",Wion
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zeewion-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="",Zee 24 Ghanta
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/zee-24-ghonta.png",Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="",Red Bull TV
