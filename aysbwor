@@ -162,13 +162,15 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesu
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/20250530_180603.png",Ten Cricket 
 https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd?%7CdrmScheme=clearkey&drmLicense=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Saudi Quran TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/alquran-alkarim.png" group-title="",Alquran Alkareem
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Saudi TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/assunnah-annabawih.png" group-title="",Alsunnah Alnabawih
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/al-saudiya.png" group-title="",Al Saudiya
 http://iptvtree.net:8080/F15554/Tve5ZWQEd485/3741
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="",Mecca Live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/alquran-alkarim.png" group-title="",Alquran Alkareem
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/makkah.stream/playlist.m3u8|Referer=https://statiics.ncare.live/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="",Star Sports 1 
