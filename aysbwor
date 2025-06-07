@@ -94,7 +94,7 @@ https://newbdix-xfireflix.vercel.app/api/167551.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="nickelodeon" tvg-language="" tvg-logo="" group-title="Kids",Nickelodeon
 http://178.128.214.60:1234/stream/astro/nickelodeon/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/north-korea/flag-square-500.png" group-title="temporary channels", DPRK Central TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/20250607_175642.png" group-title="", DPRK Central TV
 https://tv.nknews.org/tvdash/stream.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="cartoon-network" tvg-language="" tvg-logo="" group-title="",Cartoon Network Hindi
