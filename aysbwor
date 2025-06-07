@@ -79,13 +79,13 @@ https://otttv.co.in/d2h/livestream/discovery-channel/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/discovery-kids/drmLicense
 https://otttv.co.in/d2h/livestream/discovery-kids/manifest.mpd
 
-#EXTINF:-1 tvg-id="cricket-gold" tvg-name="Cricket Gold" tvg-language="" tvg-logo="" group-title="Sports",Cricket Gold
+#EXTINF:-1 tvg-id="cricket-gold" tvg-name="Cricket Gold" tvg-language="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/cricket-gold.png" group-title="Sports",Cricket Gold
 https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bpss9asqfihqh/scheduler/scheduleMaster/453.m3u8
 
-#EXTINF:-1 tvg-id="tsports" tvg-name="Tsports" tvg-language="" tvg-logo="" group-title="Sports",Tsports
+#EXTINF:-1 tvg-id="tsports" tvg-name="Tsports" tvg-language="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/tsports.png" group-title="Sports",Tsports
 https://dj-jadutv-by-xfireflix.netlify.app/.netlify/functions/magicxtvbd/t_sports.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="cartoon-network" tvg-language="" tvg-logo="" group-title="Kids",Cartoon Network Hindi
+#EXTINF:-1 tvg-id="" tvg-name="cartoon-network" tvg-language="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/cartoon-network.png" group-title="Kids",Cartoon Network Hindi
 https://newbdix-xfireflix.vercel.app/api/150478.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="disney-sd" tvg-language="" tvg-logo="" group-title="Kids",Disney SD
