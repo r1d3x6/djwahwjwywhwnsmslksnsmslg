@@ -135,9 +135,6 @@ https://newsprotalhub.xyz/tipyop/live.m3u8?id=57bd9c2493c1&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/tandjtales/refs/heads/Tom-and-Jerry-Tales/nick.png" group-title="",Nick Bangla
 http://tv.bdiptv.store:80/live/restream/restreamzz/96.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://otapp.store/uploads/tv_image/sm/disney-hindi.png" group-title="",Disney Hindi-2
-http://xtvplayer.top/live/3525532727/9752528282/167551.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/20250530_172252.png" group-title="",TNT Sports 1 - AQ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
@@ -261,7 +258,7 @@ https://otttv.co.in/d2h/livestream/investigation-discovery/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/tlc/drmLicense
 https://otttv.co.in/d2h/livestream/tlc/manifest.mpd
 
-#EXTINF:-1 tvg-id="zee-bangla" tvg-name="Zee Bangla" tvg-language="Bengali" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ralgkp.png" tvg-chno="zee-bangla" group-title="Entertainment",Zee Bangla
+#EXTINF:-1 tvg-id="zee-bangla" tvg-name="Zee Bangla" tvg-language="Bengali" tvg-country="IN" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/zee-bangla.png" tvg-chno="zee-bangla" group-title="Entertainment",Zee Bangla
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
