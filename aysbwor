@@ -27,7 +27,7 @@ https://aynapubluc.vercel.app/api/stream/0579659b-2854-40d1-ad6a-69b70641ad17.m3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/maasranga.png" group-title="",Maasranga Tv
 https://aynapubluc.vercel.app/api/stream/9a94b22f-c4a4-4150-8eb9-129d0ddeb934.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/ekushey_tv.png" group-title="entertainment", Ekushey TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/etv.png" group-title="entertainment", Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/disnep.png" group-title="",Disnep Channel
