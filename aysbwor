@@ -3,7 +3,7 @@
 
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz" 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/btv_world.png" group-title="",BTV 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/btv.png" group-title="",BTV 
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://appv10static.jaagobd.com/media/channel_logos/songsodtv.jpg" group-title="",Songsad TV
