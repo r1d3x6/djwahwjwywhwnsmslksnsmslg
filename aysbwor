@@ -186,6 +186,9 @@ https://otttv.co.in/d2h/livestream/rongeen-tv/master.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/disnep.png" group-title="",Disnep Channel
 http://line.ultrab.xyz:80/live/ZeeALI1/465841/112872.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/disnep-hd.png",Disnep Channel HD
+http://starshare.org:80/live/DsMakkar/Apple@7700/19741.m3u8
+
 #EXTINF:-1 tvg-id="discovery-kids" tvg-name="Discovery Kids" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://raw.githubusercontent.com/r1d3x6/tandjtales/refs/heads/Tom-and-Jerry-Tales/dkids.png" tvg-chno="discovery-kids" group-title="Kids",Discovery Kids
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -206,11 +209,8 @@ https://fifabangladesh.site/69/TATACC/play.php?id=16939
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/boomerang.png",Boomerang
 http://watchindia.net:8880/live/10155/34564/1295.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="",Hungama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/hungama.png",Hungama
 http://starshare.org:80/live/DsMakkar/Apple@7700/18456.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/disnep-hd.png",Disnep Channel HD
-http://starshare.org:80/live/DsMakkar/Apple@7700/19741.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/alquran-alkarim.png" group-title="",Alquran Alkareem
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
