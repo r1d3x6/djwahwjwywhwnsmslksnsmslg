@@ -134,7 +134,7 @@ https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/gesdwrdncn/out/v1/79e752f
 #KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="",Astro Cricket
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/astro-cricket.png",Astro Cricket
 http://watchindia.net:8880/live/10155/34564/2174.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/20250530_175852.png",Willow by Cricbuzz
@@ -203,13 +203,13 @@ https://fifabangladesh.site/69/TATACC/play.php?id=16939
 # EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/tandjtales/refs/heads/Tom-and-Jerry-Tales/nick.png" group-title="",Nick Bangla
 #http://tv.bdiptv.store:80/live/restream/restreamzz/96.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="",Boomerang
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/boomerang.png",Boomerang
 http://watchindia.net:8880/live/10155/34564/1295.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="",Hungama
 http://starshare.org:80/live/DsMakkar/Apple@7700/18456.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="",Disnep Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/disnep-hd.png",Disnep Channel HD
 http://starshare.org:80/live/DsMakkar/Apple@7700/19741.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/alquran-alkarim.png" group-title="",Alquran Alkareem
