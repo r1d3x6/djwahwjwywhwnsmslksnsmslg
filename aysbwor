@@ -184,7 +184,7 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 https://otttv.co.in/d2h/livestream/rongeen-tv/master.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/r1d3x6/skgitvglogojkkk/refs/heads/main/disnep.png" group-title="",Disnep Channel
-http://line.ultrab.xyz:80/ZeeALI1/465841/112872
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/112872.m3u8
 
 #EXTINF:-1 tvg-id="discovery-kids" tvg-name="Discovery Kids" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://raw.githubusercontent.com/r1d3x6/tandjtales/refs/heads/Tom-and-Jerry-Tales/dkids.png" tvg-chno="discovery-kids" group-title="Kids",Discovery Kids
 #KODIPROP:inputstream=inputstream.adaptive
